@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\interview-sample-code.props" />
+</Project>
